@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -iname "*.gif" -printf "%f\n" | sort -f | sed 's/\.[^\.]*$//'
+find . -type f \( -name "*.gif" \) -print0 | xargs -0 ls -l | cut -d ' ' -f9 | sort -f | rev | cut -c 5- | rev echo
