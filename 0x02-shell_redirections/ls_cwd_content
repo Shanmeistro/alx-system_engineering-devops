@@ -27,5 +27,5 @@ drwxr-xr-x 6 root root 4096 Feb 13 08:46 ..
 -rwxr--r-- 1 root root   79 Feb 13 11:37 8-cwd_state
 -rwxr--r-- 1 root root    0 Feb 13 08:25 9-duplicate_last_line
 -rw-r--r-- 1 root root  801 Feb 13 10:14 iacta
--rw-r--r-- 1 root root    1 Feb 13 11:37 ls_cwd_content
+-rw-r--r-- 1 root root    1 Feb 13 11:40 ls_cwd_content
 -rw-r--r-- 1 root root 1912 Feb 13 08:37 README.md
