@@ -1,2 +1,2 @@
 #!/bin/bash
-[ -f "iacta" ] | echo "$(tail -n 1 iacta)" >> iacta | echo "File iacta does not exist."
+[ -f "iacta" ] | echo "$(tail -n 1 iacta)" >> iacta
